@@ -54,32 +54,15 @@ Le changement de matériaux pour augmenter la fréquence (ex: gallium, gallium +
 Si la limite est atteinte, pour obtenir plus de puissance il faudra plus d'espace, les processeurs peuvent évoluer sur plusieurs couches (les 3 dimensions).
 Les progrès logiciels à effectuer sont nombreux : structures de bases de données, utilisation...
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Critique des singularistes
 
-```markdown
-Syntax highlighted code block
+### Critique du modèle scientifique: 
+Des auteurs, sans critiquer directement la notion de Singularité, remettent en question l'idée d'accélération technologique.
 
-# Header 1
-## Header 2
-### Header 3
+Le concept de singularité ne tient pas compte des besoins et des ressources disponibles en énergie. Soit il postule des ressources infinies, soit il estime sans le démontrer que les besoins ne changeront que peu. Accessoirement, il ne tient pas compte de la limite quantique à laquelle la miniaturisation des composants électroniques se heurtera nécessairement un jour, ni de perturbations négligeables aux échelles actuelles et qui ne le resteront pas forcément à d'autres échelles (particules alpha, etc.).
 
-- Bulleted
-- List
+Les hypothèses relatives à la Singularité sont régulièrement critiquées pour leur manque de solidité scientifique. Theodore Modis rappelle par exemple qu'une courbe exponentielle ne débouche sur aucune singularité, mais continue à croître à l'infini. Douglas Hofstadter se montre lui aussi très critique, craignant que cette idée n'exprime en fait qu'un vœu pieux.
 
-1. Numbered
-2. List
+Jonathan Huebner écrit en conclusion de son article que «  la preuve avancée indique que le rythme de l'innovation a atteint un pic il y a environ un siècle et est maintenant en déclin. Ce déclin est le plus probablement dû à une limite économique de la technologie ou à une limite du cerveau humain que nous approchons. Nous avons déjà parcouru 85% du chemin qui nous sépare de cette limite, et le rythme du développement technologique diminuera à chaque année écoulée. ». De telles analyses se retrouvent également chez Bob Seidensticker ou chez David Bodanis.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bneayoub/TechnologicalSingularity/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Il existe bien des limites politiques, économiques, militaires (et stratégiques), des limites en ressources, et surtout la connaissance et les découvertes technologiques ont également leurs limites. Comme le conçoit également Ray Kurzweil.
