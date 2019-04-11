@@ -90,7 +90,7 @@ Plus simplement, on peut se rappeler que les singularités prévues en histoire 
 
 ## Conclusion
 
-LA singularité technologique est, certe, un sujet qui préoccupe nombreux futuristes, et mérite une discussion dans lemilieu de la recherche. Mais étant donné son rapprochement de la science fiction et l'éloignement des bases de discussion scientifique, c'est un sujet qui dirige nos yeux sur une sujet important relatif à l'IA qui est l'éthique, le financement et l'avancée des projets IA.
+LA singularité technologique est, certe, un sujet qui préoccupe nombreux futuristes, et mérite une discussion dans le milieu de la recherche. Mais étant donné son rapprochement de la science fiction et l'éloignement des bases de discussion scientifique, c'est un sujet qui dirige nos yeux vers des problématiques importantes relatives à l'IA qui sont l'éthique, le financement et l'avancée des projets IA.
 
 Comment maintenir l’économie mondiale active pendant encore au moins dix ans ? Qui est prêt à financer un projet d’IA ? Qui devons-nous recruter pour un projet d’IA ? Comment pouvons-nous éviter les réactions hostiles anti-technologie habituelles ? Et que faisons-nous si la nanotech arrive en premier ?
 
